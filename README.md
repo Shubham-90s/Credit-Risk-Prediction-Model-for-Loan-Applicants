@@ -1,1 +1,1 @@
-# Credit-Risk-Prediction-Model-for-Loan-Applicants
+The Credit Risk Prediction Model for Loan Applicants project aims to develop a robust predictive model to assess the creditworthiness of loan applicants. Leveraging advanced machine learning techniques and statistical analysis, the model predicts the likelihood of loan default or repayment based on various applicant attributes and financial indicators.
